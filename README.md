@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BrianCyan
 - 👀 I’m interested in Digital Art and Interaction Design.
 - 🌱 I’m currently learning frontend development.
-- 📫 Reach me by shuib22@mails.tsinghua.edu.cn
+- 📫 Reach me at www.briancyan.site
 
 <!---
 BrianCyan/BrianCyan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
