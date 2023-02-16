@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BrianCyan
-- 🪐 I’m interested in Digital Art and Interaction Design.
+- 🪐 I’m interested in Computational Art and Interaction Design.
 - 🌱 I’m currently learning frontend development.
 - 🌍 Meet me at www.briancyan.site
 
