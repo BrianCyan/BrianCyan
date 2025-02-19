@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @BrianCyan
-- 🪐 I’m interested in HCI and VIS.
+- 👋 Hi, I’m Brian
+- 🪐 I’m interested in HCI, Learning Science, and Vis.
 - 🌍 Meet me at www.briancyan.site
 
 <!---
