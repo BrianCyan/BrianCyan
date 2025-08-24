@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Brian
 - 🪐 I’m interested in HCI, Learning Science, and Vis.
-- 🌍 Meet me at www.briancyan.site
+- 🌍 Meet me at boshui.site
 
 <!---
 BrianCyan/BrianCyan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
